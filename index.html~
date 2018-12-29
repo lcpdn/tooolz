@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>The best tools for a startup</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="img/favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/prettyphoto/css/prettyphoto.css" rel="stylesheet">
+  <link href="lib/hover/hoverex-all.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+    Template Name: Basic
+    Template URL: https://templatemag.com/basic-bootstrap-personal-template/
+    Author: TemplateMag.com
+    License: https://templatemag.com/license/
+  ======================================================= -->
+</head>
+
+<body>
+
+  <div id="g">
+    <div class="container">
+      <div class="row centered">
+        <h2>Useful links for startups.</h2>
+        <div class="col-md-8 col-md-offset-2">
+          <p>Here are some links to useful services for startups. I do not endorse them :)</p>
+
+        </div>
+        <!--/col-md-8-->
+      </div>
+      <!--/row-->
+    </div>
+    <!--/.container-->
+  <div class="row centered"><h3>Corporate branding</h3></div>
+    <div class="portfolio-centered mt">
+      <div class="recentitems portfolio">
+
+        <div class="portfolio-item graphic-design">
+          <div class="he-wrap tpl6">
+            <img src="img/envato.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">Envato</h3>
+
+                <a href="https://envato.com/" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+
+        <div class="portfolio-item web-design">
+          <div class="he-wrap tpl6">
+            <img src="img/moo.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">MOO</h3>
+
+                <a href="https://www.moo.com/fr/" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+
+        <div class="portfolio-item graphic-design">
+          <div class="he-wrap tpl6">
+            <img src="img/printpascher.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">PrintPasCher</h3>
+                <a data-rel="prettyPhoto" href="https://www.printpascher.com" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-search"></i></a>
+                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+
+       
+      </div>
+      <!-- portfolio -->
+    </div>
+    <!-- portfolio container -->
+  <div class="row centered"><h3>Infrastructure</h3></div>
+     <div class="portfolio-centered mt">
+      <div class="recentitems portfolio">
+
+        <div class="portfolio-item graphic-design">
+          <div class="he-wrap tpl6">
+            <img src="img/gandi.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">Gandi</h3>
+                <a href="https://www.gandi.net" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+
+        <div class="portfolio-item web-design">
+          <div class="he-wrap tpl6">
+            <img src="img/ovh.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">OVH</h3>
+
+                <a href="https://www.ovh.com/" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+
+        <div class="portfolio-item graphic-design">
+          <div class="he-wrap tpl6">
+            <img src="img/aws.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">AWS</h3>
+                <a data-rel="prettyPhoto" href="https://aws.amazon.com/fr/" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-search"></i></a>
+                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+        <div class="portfolio-item graphic-design">
+          <div class="he-wrap tpl6">
+            <img src="img/scaleway.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">Scaleway</h3>
+                <a data-rel="prettyPhoto" href="https://www.scaleway.com/" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-search"></i></a>
+                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+       
+      </div>
+      <!-- portfolio -->
+    </div>
+    <!-- portfolio container -->
+  <div class="row centered"><h3>Corporate branding</h3></div>
+    <div class="portfolio-centered mt">
+      <div class="recentitems portfolio">
+
+        <div class="portfolio-item graphic-design">
+          <div class="he-wrap tpl6">
+            <img src="img/github.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">GitHub</h3>
+
+                <a href="https://www.github.com/" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+
+        <div class="portfolio-item web-design">
+          <div class="he-wrap tpl6">
+            <img src="img/gitlab.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">Gitlab</h3>
+
+                <a href="https://www.gitlab.com/" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+
+        <div class="portfolio-item graphic-design">
+          <div class="he-wrap tpl6">
+            <img src="img/ganalytics.png" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">Google Analytics</h3>
+                <a data-rel="prettyPhoto" href="https://analytics.google.com/analytics/web" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-search"></i></a>
+                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+
+       
+      </div>
+      <!-- portfolio -->
+    </div>
+    <!-- portfolio container -->
+<h3>Legal</h3>
+  <div class="portfolio-centered mt">
+      <div class="recentitems portfolio">
+
+  <div class="portfolio-item graphic-design">
+          <div class="he-wrap tpl6">
+            <img src="img/portfolio/portfolio_01.jpg" class="img-responsive" alt="">
+            <div class="he-view">
+              <div class="bg a0" data-animate="fadeIn">
+                <h3 class="a1" data-animate="fadeInDown">A Graphic Design Item</h3>
+                <a data-rel="prettyPhoto" href="img/portfolio/portfolio_01.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-search"></i></a>
+                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
+              </div>
+              <!-- he bg -->
+            </div>
+            <!-- he view -->
+          </div>
+          <!-- he wrap -->
+        </div>
+        <!-- end col-12 -->
+      </div>
+      <!-- portfolio -->
+    </div>
+    <!-- portfolio container -->
+
+  <div id="f">
+    <div class="container">
+      <div class="row centered">
+        <div class="col-md-8 col-md-offset-2">
+          <a href="https://www.twitter.com/lcpdn"><i class="ion-social-twitter"></i></a>
+	  <a href="https://www.github.com/lcpdn"><i class="ion-social-github"></i></a>
+        </div>
+        <!--/col-md-8-->
+      </div>
+    </div>
+    <!--/container-->
+  </div>
+  <!--/.F-->
+
+  
+
+  <div id="copyrights">
+    <div class="container">
+      <p>
+        &copy; Copyrights <strong>@LcPdn</strong>. All Rights Reserved
+      </p>
+      <div class="credits">
+        <!--
+          You are NOT allowed to delete the credit link to TemplateMag with free version.
+          You can delete the credit link only if you bought the pro version.
+          Buy the pro version with working PHP/AJAX contact form: https://templatemag.com/basic-bootstrap-personal-template/
+          Licensing information: https://templatemag.com/license/
+        -->
+        Created with Basic template by <a href="https://templatemag.com/">TemplateMag</a>
+      </div>
+    </div>
+  </div>
+  <!-- / copyrights -->
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
+  <script src="lib/php-mail-form/validate.js"></script>
+  <script src="lib/prettyphoto/js/prettyphoto.js"></script>
+  <script src="lib/isotope/isotope.min.js"></script>
+  <script src="lib/hover/hoverdir.js"></script>
+  <script src="lib/hover/hoverex.min.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>
